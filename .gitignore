@@ -36,4 +36,4 @@ yarn-error.log*
 next-env.d.ts
 
 # google cloud service
-credentials.json
+# credentials.json
